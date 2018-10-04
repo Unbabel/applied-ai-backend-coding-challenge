@@ -34,5 +34,6 @@ FYI: Please understand that this challenge is not decisive if you are applying t
 
 ### Resources
 
-* Marian links
-* RabbitMQ links
+* Marian - https://github.com/marian-nmt/marian
+* RabbitMQ - https://www.rabbitmq.com/#getstarted
+* Flask - http://flask.pocoo.org
