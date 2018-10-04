@@ -22,7 +22,8 @@ FYI: Please understand that this challenge is not decisive if you are applying t
 * Use PostgreSQL
 * Create a scalable application.
 * Use the Marian-decoder (C++ framework) as a way to translate from English to Spanish
-* Use rabbitMQ to communicate in between your web application (python) and Marian (C++)
+* Use RabbitMQ to communicate in between your web application (python) and Marian (C++)
+* Use C++ to build the wrapper that will manage the communication between Marian and RabbitMQ
 * Have tests
 
 ### Notes
