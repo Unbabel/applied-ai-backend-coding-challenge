@@ -29,7 +29,7 @@ FYI: Please understand that this challenge is not decisive if you are applying t
 ### Notes
 
 * Page load time shouldnt exceed 1 second
-* You should not have to touch Marian code (the documentation for developers is almost non existing) but information on how to use Marian-decoder are available here (Link to Marian GitHub) and you should be able to understand the minimum on how to use marian-decoder
+* You should not have to touch Marian code (the documentation for developers is almost non existing) but information on how to use Marian-decoder are available [here](https://github.com/marian-nmt/marian) and you should be able to understand the minimum on how to use marian-decoder
 
 
 ### Resources
