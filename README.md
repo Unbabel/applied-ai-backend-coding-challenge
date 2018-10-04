@@ -13,7 +13,7 @@ FYI: Please understand that this challenge is not decisive if you are applying t
 ## Challenge
 
 1. Build a basic web app with a simple input field that takes an English (EN) input translates it to Spanish (ES).
-2. When a new translation is requested it should add to a list below the input field (showing one of three status: requested, pending or translated) - (note: always request human translation)
+2. When a new translation is requested it should add to a list below the input field (showing one of three status: requested, pending or translated)
 3. The list should be dynamically ordered by the size of the translated messages
 
 ### Requirements
