@@ -30,6 +30,7 @@ FYI: Please understand that this challenge is not decisive if you are applying t
 
 * Page load time shouldnt exceed 1 second
 * You should not have to touch Marian code (the documentation for developers is almost non existing) but information on how to use Marian-decoder are available [here](https://github.com/marian-nmt/marian) and you should be able to understand the minimum on how to use marian-decoder
+* There is not time limit for this challenge. However, we want to follow your progress so we advise that you share the fork as soon as possible, commit often and keep us updated. 
 
 
 ### Resources
